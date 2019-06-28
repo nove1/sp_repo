@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Item {
+public class Item { 
 	//发的红包飞活动
 	private Integer id;
 	private String name;
